@@ -1,0 +1,25 @@
+[
+    {"vehicleNo" : "DL2", "dateOfReg": "17.01.1992", "statusOfReg": "Pending","state": "Delhi"},
+    {"vehicleNo" : "DL6", "dateOfReg": "17.02.1995", "statusOfReg": "Approve","state": "Delhi"},
+    {"vehicleNo" : "AP20", "dateOfReg": "17.01.1994", "statusOfReg": "Pending","state": "Andhra Pradesh"},
+    {"vehicleNo" : "UP80", "dateOfReg": "17.03.1995", "statusOfReg": "Pending","state": "Uttar Pradesh"},
+    {"vehicleNo" : "UP50", "dateOfReg": "17.03.1992", "statusOfReg": "Pending","state": "Uttar Pradesh"},
+
+    {"vehicleNo" : "UP 57", "dateOfReg": "17.01.1992", "statusOfReg": "Approve","state": "Uttar Pradesh"},
+    {"vehicleNo" : "UP 52", "dateOfReg": "17.01.1990", "statusOfReg": "Pending","state": "Uttar Pradesh"},
+    {"vehicleNo" : "UP 54", "dateOfReg": "17.01.1990", "statusOfReg": "Approve","state": "Uttar Pradesh"},
+    {"vehicleNo" : "UP 51", "dateOfReg": "17.01.1992", "statusOfReg": "Pending","state": "Uttar Pradesh"},
+    {"vehicleNo" : "UP 16", "dateOfReg": "17.01.1998", "statusOfReg": "Approve","state": "Uttar Pradesh"},
+
+    {"vehicleNo" : "AK 623", "dateOfReg": "17.01.1999", "statusOfReg": "Pending","state": "Uttar Pradesh"},
+    {"vehicleNo" : "AC 363", "dateOfReg": "17.01.1992", "statusOfReg": "Approve","state": "Uttar Pradesh"},
+    {"vehicleNo" : "AC 367", "dateOfReg": "17.01.1998", "statusOfReg": "Approve","state": "Uttar Pradesh"},
+    {"vehicleNo" : "AC 223", "dateOfReg": "17.01.1998", "statusOfReg": "Pending","state": "Delhi"},
+    {"vehicleNo" : "DL 323", "dateOfReg": "17.01.1997", "statusOfReg": "Pending","state": "Delhi"},
+
+    {"vehicleNo" : "DL 423", "dateOfReg": "17.01.1992", "statusOfReg": "Pending","state": "Delhi"},
+    {"vehicleNo" : "DL 523", "dateOfReg": "17.01.1993", "statusOfReg": "Approve","state": "Delhi"},
+    {"vehicleNo" : "UK 123", "dateOfReg": "17.01.1991", "statusOfReg": "Pending","state": "Delhi"},
+    {"vehicleNo" : "UK 111", "dateOfReg": "17.01.1992", "statusOfReg": "Approve","state": "Delhi"},
+    {"vehicleNo" : "UK 222", "dateOfReg": "17.01.1990", "statusOfReg": "Pending","state": "Delhi"}
+]
